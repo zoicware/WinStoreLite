@@ -10,3 +10,13 @@ Once the apps have been installed you can choose to set updates back to disabled
 
 
 NOTE: IF YOUR INTERNET IS SLOW OR THE APP IS LARGE THE INSTALL PROCESS MAY TAKE LONGER THAN EXPECTED PLEASE BE PATIENT OR USE THE SKIP FUNCTION AND TRY AGAIN
+
+
+
+
+DEMO:
+
+![image](https://github.com/zoicware/WinStoreLite/assets/118035521/3ca91de7-9130-425c-9f1f-f542f9d84bf0)
+
+![image](https://github.com/zoicware/WinStoreLite/assets/118035521/cff5c318-a378-48b8-a453-6ac4ad35f598)
+
